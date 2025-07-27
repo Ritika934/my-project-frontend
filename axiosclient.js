@@ -2,7 +2,7 @@ import axios from "axios"
 
 const axiosclient = axios.create({
 
-    baseURL:'https://my-project-frontend-i27dt9nha-ritika-parmars-projects.vercel.app',
+    baseURL:'https://project-backend-ashy-mu.vercel.app',
     withCredentials:true,
     headers:{
         'Content-Type':'application/json'
